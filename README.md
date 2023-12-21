@@ -1,6 +1,6 @@
 Python https://www.python.org/downloads/release/python-3106/
 
-Установка: 
+--- Установка: 
 
 (В папке проекта)
 
@@ -8,6 +8,6 @@ py -m pip install -r requirements.txt
 
 В tgbot/config.py указать токен бота
 
-Запуск:
+--- Запуск:
 
 py main.py
